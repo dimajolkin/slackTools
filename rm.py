@@ -2,7 +2,7 @@ import requests
 import json
 import calendar
 from datetime import datetime, timedelta
-
+#https://www.shiftedup.com/2014/11/13/how-to-bulk-remove-files-from-slack
 _token = "xoxp-***"
 _domain = "***-team"
 def getTokken:
